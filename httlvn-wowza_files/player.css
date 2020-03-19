@@ -1,0 +1,87 @@
+body {
+    background-color: #fff;
+    margin: auto ;
+    max-width: 960px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+hr {
+    border:0;
+    border-top: 1px solid #cccccc;
+}
+
+h1 {
+    vertical-align:middle;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+img.logo {
+    max-width: 140px;
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.header {
+    max-width: 960px;
+    margin: 12px auto;
+    overflow: auto;
+}
+
+.player {
+    max-width: 960px;
+    padding-top: 10px;
+}
+
+
+.logo-text {
+    display: inline;
+    vertical-align: center;
+}
+
+.player-description {
+    max-width: 640px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-align:left;
+}
+
+.addthis-icons {
+    max-width: 960px;
+    padding-top: 15px;
+}
+.addthis_sharing_toolbox {
+    height: 32px;
+}
+
+#fcplayer_container {
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0px;
+}
+
+#fcplayer_wrapper {
+    margin: auto;
+    border: 1px solid;
+}
+
+.generated {
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+.fc-overlays {
+  pointer-events: none;
+}
